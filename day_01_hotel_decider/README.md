@@ -1,6 +1,6 @@
 # day_01_hotel_decider
 
-A new Flutter project.
+Pick where to eat easily, Hotel Picker.
 
 ## Getting Started
 
