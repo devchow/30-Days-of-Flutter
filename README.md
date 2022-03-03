@@ -1,2 +1,3 @@
 # 30 Days of Flutter
- Learning fluter in 30 days.
+ Learning flutter in 30 days.
+ Powered by Kilo Loco
